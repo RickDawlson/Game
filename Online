@@ -1,0 +1,5 @@
+@echo off
+mode 10,3
+Title Online Store
+echo this is a test
+pause >NUL
